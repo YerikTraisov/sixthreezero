@@ -1,0 +1,17 @@
+{
+  "No data available in table" : "No data available in table",
+  "Showing _START_ to _END_ of _TOTAL_ entries" : "Showing _START_ to _END_ of _TOTAL_ entries",
+  "No entries to show" : "No entries to show",
+  "filtered from _MAX_ total records" : "filtered from _MAX_ total records",
+  "show _MENU_ entries" : "show _MENU_ entries",
+  "Loading..." : "Loading...",
+  "Processing..." : "Processing...",
+  "No matching records found" : "No matching records found",
+  "First" : "First",
+  "Last" : "Last",
+  "Next" : "Next",
+  "Previous" : "Previous",
+  "sorting ascending" : "sorting ascending",
+  "sorting descending" : "sorting descending",
+  "Search" : "Search"
+}
